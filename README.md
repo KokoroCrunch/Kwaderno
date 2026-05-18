@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Kwaderno
-=======
 # Kwaderno by Sartin Cafe - Restaurant Website
 
 A full-stack MERN application for Kwaderno by Sartin Cafe, a cozy coffee shop located in Bambang, Nueva Vizcaya, Philippines.
@@ -264,4 +261,3 @@ For questions or support, please contact the development team.
 ---
 
 **Kwaderno by Sartin Cafe** - Brewing Stories in Bambang, Nueva Vizcaya
->>>>>>> b810e99e (initial commit)
